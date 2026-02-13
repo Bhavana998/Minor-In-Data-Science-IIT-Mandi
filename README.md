@@ -84,7 +84,7 @@ python reinforcement_learning_driven_patch_attention_for_urban_scene_segmentatio
 
 The reinforcement learning-based patch attention mechanism demonstrates improved segmentation performance compared to baseline models by focusing on high-information regions in urban scenes.
 (You can add your actual accuracy/mIoU numbers here for stronger impact.)
-📄 Project Report & Presentation
+### 📄 Project Report & Presentation
 
 ### 📘 Detailed Report: Project report.pdf
 

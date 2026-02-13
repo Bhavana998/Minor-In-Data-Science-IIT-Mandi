@@ -1,15 +1,14 @@
-🧠 
-Reinforcement Learning Driven Patch Attention for Urban Scene Segmentation
+# 🧠 Reinforcement Learning Driven Patch Attention for Urban Scene Segmentation
 
-🎓 Minor in Data Science – IIT Mandi
+### 🎓 Minor in Data Science – IIT Mandi
 
-📌 Project Overview
+### 📌 Project Overview
 
 This project proposes a Reinforcement Learning (RL) driven Patch Attention mechanism to improve Urban Scene Semantic Segmentation.
 Semantic segmentation is a computer vision task where each pixel in an image is classified into predefined categories such as road, building, vehicle, pedestrian, etc.
 In this project, reinforcement learning is used to intelligently guide the model’s attention toward important image patches, improving segmentation accuracy and efficiency.
 
-🎯 Objectives
+### 🎯 Objectives
 
 Implement a semantic segmentation model for urban scenes
 Integrate a patch-based attention mechanism
@@ -17,7 +16,7 @@ Use Reinforcement Learning to dynamically select informative patches
 Improve segmentation performance compared to baseline models
 Analyze performance using standard evaluation metrics
 
-🧠 Methodology
+### 🧠 Methodology
 
 Base Segmentation Model
 Encoder-decoder architecture (CNN-based)
@@ -29,7 +28,7 @@ Reinforcement Learning Controller
 Agent selects patches sequentially
 Reward based on segmentation performance
 Policy optimized to maximize segmentation accuracy
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Python
 PyTorch / TensorFlow (depending on your implementation)
@@ -38,7 +37,7 @@ OpenCV
 Matplotlib
 Google Colab (for training & experiments)
 
-📂 Project Structure
+### 📂 Project Structure
 
 Copy code
 
@@ -56,13 +55,13 @@ Minor-In-Data-Science-IIT-Mandi/
 
 └── README.md
 
-📊 Evaluation Metrics
+### 📊 Evaluation Metrics
 
 Mean Intersection over Union (mIoU)
 Pixel Accuracy
 Loss Curves
 Attention Visualization
-🚀 How to Run
+### 🚀 How to Run
 
 1️⃣ Clone the Repository
 Bash
@@ -81,29 +80,29 @@ Bash
 Copy code
 python reinforcement_learning_driven_patch_attention_for_urban_scene_segmentation_setty_bhavana.py
 
-📈 Results
+### 📈 Results
 
 The reinforcement learning-based patch attention mechanism demonstrates improved segmentation performance compared to baseline models by focusing on high-information regions in urban scenes.
 (You can add your actual accuracy/mIoU numbers here for stronger impact.)
 📄 Project Report & Presentation
 
-📘 Detailed Report: Project report.pdf
+### 📘 Detailed Report: Project report.pdf
 
-📊 Presentation Slides: RL_Patch_Attention_Segmentation PPT.pptx
+### 📊 Presentation Slides: RL_Patch_Attention_Segmentation PPT.pptx
 
-🌍 Applications
+### 🌍 Applications
 
 Autonomous Driving
 Smart City Monitoring
 Traffic Analysis
 Robotics & Navigation
 
-👩‍💻 Author
+### 👩‍💻 Author
 
 Setty Bhavana
 Minor in Data Science – IIT Mandi
 GitHub: https://github.com/Bhavana998�
 
-⭐ Acknowledgment
+### ⭐ Acknowledgment
 
 This project was completed as part of the Minor in Data Science Program at IIT Mandi, focusing on advanced Machine Learning and Computer Vision techniques.

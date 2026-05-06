@@ -8,6 +8,8 @@ This project proposes a Reinforcement Learning (RL) driven Patch Attention mecha
 Semantic segmentation is a computer vision task where each pixel in an image is classified into predefined categories such as road, building, vehicle, pedestrian, etc.
 In this project, reinforcement learning is used to intelligently guide the model’s attention toward important image patches, improving segmentation accuracy and efficiency.
 
+## Project link: https://colab.research.google.com/drive/1MSgFcS_Q7GOwnuHu6nd_WtLuRUw2v0lu ##
+
 ### 🎯 Objectives
 
 Implement a semantic segmentation model for urban scenes

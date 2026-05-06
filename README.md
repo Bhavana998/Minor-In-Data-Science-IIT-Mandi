@@ -9,6 +9,7 @@ Semantic segmentation is a computer vision task where each pixel in an image is 
 In this project, reinforcement learning is used to intelligently guide the model’s attention toward important image patches, improving segmentation accuracy and efficiency.
 
 ## Project link: https://colab.research.google.com/drive/1MSgFcS_Q7GOwnuHu6nd_WtLuRUw2v0lu ##
+## Project execution link: https://drive.google.com/file/d/1YRu1LvPpBito2LThEaSCUqT9dooCv_0I/view?usp=drivesdk ##
 
 ### 🎯 Objectives
 

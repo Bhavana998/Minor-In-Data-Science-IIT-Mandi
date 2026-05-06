@@ -43,25 +43,17 @@ Google Colab (for training & experiments)
 
 # Cityscapes Segmentation with Reinforcement Learning
 
-## 📊 Training Results
+## Results
 
-### Reward and mIoU Curves
+### Model Output
+![Input and Output](images/input_output.png)
 
-<img src="reward_miou_curves.png" alt="Training Curves" width="700">
 
----
+### Ground Truth
+![Ground Truth](images/ground_truth.png)
 
-## 🖼️ Segmentation Results
-
-### Input Image → Model Output
-
-<img src="input_output.png" alt="Input and Output" width="700">
-
----
-
-### Ground Truth Segmentation
-
-<img src="ground_truth.png" alt="Ground Truth" width="700">
+### Training Curves
+![Reward and mIoU Curves](images/reward_miou_curves.png)
 
 ---
 

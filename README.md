@@ -31,6 +31,7 @@ Reinforcement Learning Controller
 Agent selects patches sequentially
 Reward based on segmentation performance
 Policy optimized to maximize segmentation accuracy
+
 ### 🛠️ Tech Stack
 
 Python
@@ -39,6 +40,43 @@ NumPy
 OpenCV
 Matplotlib
 Google Colab (for training & experiments)
+
+# Cityscapes Segmentation with Reinforcement Learning
+
+## 📊 Training Results
+
+### Reward and mIoU Curves
+
+<img src="reward_miou_curves.png" alt="Training Curves" width="700">
+
+---
+
+## 🖼️ Segmentation Results
+
+### Input Image → Model Output
+
+<img src="input_output.png" alt="Input and Output" width="700">
+
+---
+
+### Ground Truth Segmentation
+
+<img src="ground_truth.png" alt="Ground Truth" width="700">
+
+---
+
+## 📈 Performance Summary
+
+| Metric | Value |
+|--------|-------|
+| Final Validation mIoU | ~0.65-0.70 |
+| Total Reward | ~800-1000 |
+| Episodes | 0-17.5 |
+
+---
+
+## 📁 Project Structure
+
 
 ### 📂 Project Structure
 

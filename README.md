@@ -1,6 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Colab](https://img.shields.io/badge/Colab-Notebook-orange)
 
 # 🧠 Reinforcement Learning Driven Patch Attention for Urban Scene Segmentation
 

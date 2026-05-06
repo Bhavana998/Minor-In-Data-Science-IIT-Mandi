@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 🧠 Reinforcement Learning Driven Patch Attention for Urban Scene Segmentation
 
 ### 🎓 Minor in Data Science – IIT Mandi
@@ -69,22 +73,17 @@ Google Colab (for training & experiments)
 
 ## 📁 Project Structure
 
-
-### 📂 Project Structure
-
-Copy code
-
 Minor-In-Data-Science-IIT-Mandi/
-│
 
+├── images/
 
-├── reinforcement_learning_driven_patch_attention_for_urban_scene_segmentation_setty_bhavana.py
+├── Project_exceution/
+
+├── *.py
 
 ├── Project report.pdf
 
 ├── RL_Patch_Attention_Segmentation PPT.pptx
-
-├── Project_execution/
 
 └── README.md
 
@@ -132,9 +131,14 @@ Robotics & Navigation
 
 ### 👩‍💻 Author
 
-Setty Bhavana
+Bhavana
+mail: bhavanasetty95@gmail.com
 Minor in Data Science – IIT Mandi
-GitHub: https://github.com/Bhavana998�
+
+## 📄 License
+
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 ### ⭐ Acknowledgment
 
